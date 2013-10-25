@@ -1,0 +1,11 @@
+#canvas {
+   position: absolute;
+}
+
+#dpi {
+  position: absolute;
+  width: 1in;
+  height: 1in;
+  top: -100%;
+  left: -100%;
+}
