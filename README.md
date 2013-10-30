@@ -6,6 +6,8 @@ measure lengths and angles. The Protractor application utilizes HTML5 Canvas
 element to do all of the drawing. The HTML content is run in the WebBrowser
 element in Silverlight.
 
+![Screenshot](https://github.com/nokia-developer/protractor/raw/master/doc/length_measure_small.png)
+
 This project is hosted in GitHub: https://github.com/nokia-developer/protractor
 
 Developed with Microsoft Visual Studio 2010 Express for Windows Phone. Tested
